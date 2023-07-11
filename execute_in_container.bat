@@ -1,0 +1,1 @@
+docker exec -it sh_container /bin/bash

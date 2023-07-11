@@ -1,0 +1,8 @@
+__test__/*
+.github/*
+data/*
+logs/*
+docs/*
+#.git/* Oh god why
+*.md
+node_modules/*
