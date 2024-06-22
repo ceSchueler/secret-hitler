@@ -42,7 +42,7 @@ WORKDIR /opt/secret-hitler
    # yarn add mongoose@5.3.4
 
 EXPOSE 8080 
-EXPOSE 6379
+#EXPOSE 6379
 
 VOLUME [ "/opt/secret-hitler/data" ]
 VOLUME [ "/opt/secret-hitler/logs" ]
